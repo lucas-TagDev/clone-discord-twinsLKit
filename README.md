@@ -93,12 +93,12 @@ Consulte o template completo em [.env.example](.env.example).
 - `npm run db:push` — sincroniza schema no banco
 
 <p align="center">
-  <img src="./1.png" width="220"/>
-  <img src="./2.png" width="220"/>
+  <img src="./1.png" width="720"/>
+  <img src="./2.png" width="720"/>
 </p>
 <p align="center">
-  <img src="./3.png" width="220"/>
-  <img src="./4.png" width="220"/>
+  <img src="./3.png" width="720"/>
+  <img src="./4.png" width="720"/>
 </p>
 
 
