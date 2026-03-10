@@ -5,10 +5,6 @@
 <h1 align="center">TwinSLKit Clone Discord</h1>
 
 <p align="center">
-  <img src="./2.png" alt="TwinSLKit" width="320" />
-</p>
-
-<p align="center">
 Plataforma de comunicação em tempo real inspirada em apps de comunidade: texto, voz, mídia e organização por servidores/canais como o Discord.
 </p>
 
@@ -95,6 +91,15 @@ Consulte o template completo em [.env.example](.env.example).
 - `npm run lint` — lint do projeto
 - `npm run db:generate` — gera cliente Prisma
 - `npm run db:push` — sincroniza schema no banco
+
+<p align="center">
+  <img src="./1.png" width="220"/>
+  <img src="./2.png" width="220"/>
+</p>
+<p align="center">
+  <img src="./3.png" width="220"/>
+  <img src="./4.png" width="220"/>
+</p>
 
 
 ## 📄 Licença
